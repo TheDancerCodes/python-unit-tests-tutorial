@@ -1,0 +1,11 @@
+Create a class called BankAccount.
+
+1) Create a constructor that takes in an integer and assigns this to a `balance` property.
+
+2) Create a method called `deposit` that takes in cash deposit amount and updates the balance accordingly.
+
+3) Create a method called `withdraw` that takes in cash withdrawal amount and
+updates the balance accordingly.
+If amount is greater than balance return `"invalid transaction"`
+
+4) Create a subclass MinimumBalanceAccount of the BankAccount class.
