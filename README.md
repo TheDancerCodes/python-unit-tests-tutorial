@@ -6,4 +6,4 @@ This is a simple BankAccount class, with deposit and withdraw methods.
 
 
 ## Find the link to the tutorial on Youtube below:
-https://youtu.be/kkzHcMxCOBk
+https://youtu.be/eJNNIyo9VEU
